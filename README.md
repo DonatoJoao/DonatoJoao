@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil! 👋
 
-Olá! Sou [João Donato](https://joaodonatodev.com/index.html), desenvolvedor backend em formação
+Olá! Sou [João Donato](https://joaodonatodev.com/index.html), desenvolvedor backend em formação e em transição de carreira.
 
 ## Cursos para minha especialização 🖥️
 - UNIVESP (Bacharelado em Tecnologia da Informação) 2021/2024
