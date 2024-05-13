@@ -3,7 +3,7 @@
 Olá! Sou [João Donato](https://joaodonatodev.com/index.html), desenvolvedor backend em formação e em transição de carreira.
 
 ## Cursos para minha especialização 🖥️
-- UNIVESP (Bacharelado em Tecnologia da Informação) 2021/2024
+- UNIVESP (Bacharelado em Tecnologia da Informação) 2021/2025
 - Alura 2020/2022
 - Bootcamp Santander 2024
 - KNN idiomas (Inglês) 2023/2025
