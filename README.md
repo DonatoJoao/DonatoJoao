@@ -1,16 +1,30 @@
-### Hi there 👋
+# Bem-vindo ao meu perfil! 👋
 
-<!--
-**DonatoJoao/DonatoJoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou [João Donato](https://joaodonatodev.com/index.html), desenvolvedor backend em formação
 
-Here are some ideas to get you started:
+## Cursos para minha especialização 🖥️
+- UNIVESP
+- Alura
+- Bootcamp Santander
+- KNN idiomas (Inglês)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tecnologias de aprendizado 🛠️
+
+Algumas das habilidades que estou em desenvolvimento:
+
+| Java        | Springboot   | Banco de dados | 
+| ----------  | -----------  |  -----------   |
+| API REST    | Angular      | MySQL          |
+| Apache Maven| TypeScript   | NoSQL          |
+| Docker      | HTML         | PostgreSQL     |
+| SOA         | CSS          | [...](https://roadmap.sh/backend)|
+
+
+## 🔗 Links
+
+- [LinkedIn](https://www.linkedin.com/in/joaodonatodev/)
+
+## 📊 Estatísticas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonatoJoao&theme=radical)](https://github.com/DonatoJoao)
